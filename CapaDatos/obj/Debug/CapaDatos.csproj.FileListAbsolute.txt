@@ -1,0 +1,10 @@
+D:\DesarrolloVS2017\ProyectoFinal\SistemaFacturacionInventarios\CapaDatos\bin\Debug\CapaDatos.dll.config
+D:\DesarrolloVS2017\ProyectoFinal\SistemaFacturacionInventarios\CapaDatos\bin\Debug\CapaDatos.dll
+D:\DesarrolloVS2017\ProyectoFinal\SistemaFacturacionInventarios\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\DesarrolloVS2017\ProyectoFinal\SistemaFacturacionInventarios\CapaDatos\bin\Debug\ObjetosNegocio.dll
+D:\DesarrolloVS2017\ProyectoFinal\SistemaFacturacionInventarios\CapaDatos\bin\Debug\ObjetosNegocio.pdb
+D:\DesarrolloVS2017\ProyectoFinal\SistemaFacturacionInventarios\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+D:\DesarrolloVS2017\ProyectoFinal\SistemaFacturacionInventarios\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\DesarrolloVS2017\ProyectoFinal\SistemaFacturacionInventarios\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+D:\DesarrolloVS2017\ProyectoFinal\SistemaFacturacionInventarios\CapaDatos\obj\Debug\CapaDatos.dll
+D:\DesarrolloVS2017\ProyectoFinal\SistemaFacturacionInventarios\CapaDatos\obj\Debug\CapaDatos.pdb

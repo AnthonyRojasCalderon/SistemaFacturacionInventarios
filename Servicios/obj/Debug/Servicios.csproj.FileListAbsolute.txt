@@ -1,0 +1,15 @@
+D:\DesarrolloVS2017\ProyectoFinal\SistemaFacturacionInventarios\Servicios\bin\Servicios.dll.config
+D:\DesarrolloVS2017\ProyectoFinal\SistemaFacturacionInventarios\Servicios\bin\Servicios.dll
+D:\DesarrolloVS2017\ProyectoFinal\SistemaFacturacionInventarios\Servicios\bin\Servicios.pdb
+D:\DesarrolloVS2017\ProyectoFinal\SistemaFacturacionInventarios\Servicios\bin\CapaNegocio.dll
+D:\DesarrolloVS2017\ProyectoFinal\SistemaFacturacionInventarios\Servicios\bin\ObjetosNegocio.dll
+D:\DesarrolloVS2017\ProyectoFinal\SistemaFacturacionInventarios\Servicios\bin\CapaDatos.dll
+D:\DesarrolloVS2017\ProyectoFinal\SistemaFacturacionInventarios\Servicios\bin\CapaNegocio.pdb
+D:\DesarrolloVS2017\ProyectoFinal\SistemaFacturacionInventarios\Servicios\bin\ObjetosNegocio.pdb
+D:\DesarrolloVS2017\ProyectoFinal\SistemaFacturacionInventarios\Servicios\bin\CapaDatos.pdb
+D:\DesarrolloVS2017\ProyectoFinal\SistemaFacturacionInventarios\Servicios\bin\CapaDatos.dll.config
+D:\DesarrolloVS2017\ProyectoFinal\SistemaFacturacionInventarios\Servicios\obj\Debug\Servicios.csprojAssemblyReference.cache
+D:\DesarrolloVS2017\ProyectoFinal\SistemaFacturacionInventarios\Servicios\obj\Debug\Servicios.csproj.CoreCompileInputs.cache
+D:\DesarrolloVS2017\ProyectoFinal\SistemaFacturacionInventarios\Servicios\obj\Debug\Servicios.csproj.CopyComplete
+D:\DesarrolloVS2017\ProyectoFinal\SistemaFacturacionInventarios\Servicios\obj\Debug\Servicios.dll
+D:\DesarrolloVS2017\ProyectoFinal\SistemaFacturacionInventarios\Servicios\obj\Debug\Servicios.pdb

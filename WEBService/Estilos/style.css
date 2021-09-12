@@ -1,0 +1,267 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+}
+
+.contenedor_encabezado {
+    width: 100%;
+    height: 140px;
+    background-color: black;
+}
+
+.encabezado_principal {
+    Font-Size: XX-Large;
+    color: #2296E3;
+}
+
+.etiqueta_principal {
+    Font-Size: XX-Large;
+    color: #666666;
+}
+
+.encabezado_secundario {
+    Font-Size: x-large;
+    color: white;
+}
+
+.botones_encabezado {
+    background-color: #999999;
+    color: white;
+    font-size: large;
+    padding: 5px 5px;
+    border-radius: 7px;
+    -webkit-transition-duration: 0.2s;
+    transition-duration: 0.2s;
+}
+
+.botones_encabezado:active {
+    box-shadow: 0 3px #666;
+    transform: translateY(4px);
+}
+
+.contenedor_principal-login {
+    width: 100%;
+    height: 600px;
+    background: lightgray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contenedor_login {
+    display: flex;
+    flex-direction: column;
+    background: #ACACAC;
+    border-radius: 5px;
+    width: 300px;
+    height: 370px;
+    padding: 50px 48px 30px;
+}
+
+.elemento {
+    display: flex;
+    justify-content: center;
+    background: white;
+}
+
+.titulo_inicio-sesion {
+    color: black;
+    font-size: xx-large;
+    margin-left: 40px;
+}
+
+.formulario_login-usuario {
+    margin-top: 50px;
+    height: 80px;
+}
+
+.formulario_login-contraseña {
+    margin-top: 50px;
+}
+
+.textbox-form {
+    background: transparent;
+    font-size: 20px;
+    border-radius: 5px;
+    border: solid 1px black;
+    text-align: center;
+    padding: 2px 2px;
+}
+
+.etiquetas_formulario {
+    color: black;
+    font-size: x-large;
+    margin: 10px 10px;
+}
+
+.boton_inicio {
+    background-color: #999999;
+    color: black;
+    font-size: x-large;
+    padding: 5px 5px;
+    border-radius: 7px;
+    -webkit-transition-duration: 0.2s;
+    transition-duration: 0.2s;
+    margin-top: 45px;
+    margin-left: 70px;
+}
+
+.mGrid {
+    width: 100%;
+    background-color: lightgray;
+    margin: 5px 0 10px 0;
+    border: solid 1px #525252;
+    border-collapse: collapse;
+}
+
+.mGrid {
+    width: 100%;
+    background-color: #ECECEC;
+    margin: 5px 0 10px 0;
+    border: solid 1px #525252;
+    border-collapse: collapse;
+}
+
+    .mGrid td {
+        padding: 2px;
+        border: solid 1px #c1c1c1;
+        font-size: 17px;
+        color: dimgray;
+        text-align: center;
+    }
+
+    .mGrid th {
+        padding: 8px 8px;
+        color: #2296E3;
+        font-weight: bold;
+        background: black url(grd_head.png) repeat-x top;
+        border-left: solid 1px #525252;
+        font-size: 17px;
+        align-items: center;
+    }
+
+.formulario_usuario {
+    height: 500px;
+    margin-left: 980px;
+    margin-top: -400px;
+    margin-right: 400px;
+}
+
+.formulario_clientes {
+    height:500px;
+    margin-left:900px;
+    margin-top:-400px;
+    margin-right:400px;
+}
+
+.formulario_clientes-secundario {
+    height:400px;
+    margin-top:20px;
+    background-color:#CACACA;
+    width: 460px
+}
+
+.formulario_usuarios-secundario {
+    width: 460px;
+    height: 400px;
+    margin-top: 20px;
+    background-color: #CACACA;
+}
+
+.formulario_facturacion {
+    height: 700px; 
+    margin-left: 980px; 
+    margin-top: -440px; 
+    margin-right: 400px;
+}
+
+.formulario_facturacion-producto {
+    height: 130px; 
+    margin-top: 10px; 
+    background-color: #CACACA; 
+    width: 440px;
+}
+
+.formulario_facturacion-secundario {
+    height: 200px; 
+    margin-top: 10px; 
+    background-color: #CACACA; 
+    width: 440px;
+}
+
+.etiquetas_formulario_principal {
+    font-Size: XX-Large;
+    color: #666666;
+}
+
+.contenedor_principal-usuarios {
+    height: 103%;
+    margin-top: 0px;
+    background-color: lightgray
+}
+
+.contenedor_principal-articulos {
+    height: 103%;
+    margin-top: 0px; 
+    background-color:lightgray;
+}
+
+.formulario_articulos {
+    height:500px;
+    margin-left:900px;
+    margin-top:-400px;
+    margin-right:400px;
+}
+
+.formulario_articulos-secundario {
+    height:350px; 
+    margin-top:20px;
+    background-color:#CACACA; 
+    width: 460px;
+}
+
+.contenedor_principal-marcas {
+    height: 103%; 
+    margin-top: 0px; 
+    background-color:lightgray;
+}
+
+.formulario_marcas {
+    height: 500px;
+    margin-left: 900px;
+    margin-top: -400px;
+    margin-right: 400px;
+}
+
+.formulario_marcas-secundario {
+    height:233px;
+    margin-top:20px;
+    background-color:#CACACA; 
+    width: 460px;
+}
+
+.contenedor_principal-categorias {
+    height: 103%;
+    margin-top: 0px; 
+    background-color:lightgray;
+}
+
+.formulario_categorias {
+    height:500px;
+    margin-left:900px;
+    margin-top:-400px;
+    margin-right:400px;
+}
+
+.formulario_categorias-secundario {
+    height:180px; 
+    margin-top:20px;
+    background-color:#CACACA; 
+    width: 460px;
+}
+
+.contenedor_reportes {
+    height: 103%; 
+    margin-top: 0px; 
+    background-color:lightgray;
+}

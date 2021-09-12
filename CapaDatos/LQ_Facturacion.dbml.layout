@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 9.125" name="LQ_Facturacion">
+  <DataContextMoniker Name="/LQ_FacturacionDataContext" />
+  <nestedChildShapes>
+    <classShape Id="2849d4b8-888c-47bc-bbbc-09ac65a30060" absoluteBounds="3.5, 0.875, 2, 1.9631982421875">
+      <DataClassMoniker Name="/LQ_FacturacionDataContext/Articulo" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c4f3ef0c-46e0-47a0-bc1e-fc814c2b0959" absoluteBounds="3.515, 1.335, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="197d2b0c-b7b9-4f22-a24c-e9b22eeb30a5" absoluteBounds="0.75, 1.25, 2, 1.3862939453125">
+      <DataClassMoniker Name="/LQ_FacturacionDataContext/Categoria" />
+      <nestedChildShapes>
+        <elementListCompartment Id="48441f71-0dd1-4dd4-ab73-0f2840e330a7" absoluteBounds="0.765, 1.71, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3acc341d-23a4-4d24-bf83-20ede4bcda7a" absoluteBounds="3.5, 3.875, 2, 1.9631982421875005">
+      <DataClassMoniker Name="/LQ_FacturacionDataContext/Cliente" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c62b3d97-c327-482b-b69d-0b6968da0f13" absoluteBounds="3.515, 4.335, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b98a0e97-bed3-40c5-9353-e5061c075c6b" absoluteBounds="6.25, 0.875, 2, 1.9631982421875">
+      <DataClassMoniker Name="/LQ_FacturacionDataContext/Factura" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2046ec11-c235-460d-a13c-f15f50b45ad2" absoluteBounds="6.265, 1.335, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="248913ed-3e9d-44fe-9d75-52b8c9039143" absoluteBounds="0.75, 4.25, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/LQ_FacturacionDataContext/Marca" />
+      <nestedChildShapes>
+        <elementListCompartment Id="01490933-5ac6-4c3f-9aa4-845237d49797" absoluteBounds="0.765, 4.71, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6203ea4c-807c-41a8-a038-57a25de2db9b" absoluteBounds="0.75, 6.75, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/LQ_FacturacionDataContext/Usuario" />
+      <nestedChildShapes>
+        <elementListCompartment Id="bf1cc2a1-1304-41a6-adda-ec8b982cd635" absoluteBounds="0.765, 7.21, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 1.94314697265625); (3.04166666666667 : 1.94314697265625 : JumpStart); (3.20833333333333 : 1.94314697265625 : JumpEnd); (3.5 : 1.94314697265625)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/LQ_FacturacionDataContext/Categoria/Categoria_Articulo" />
+      <nodes>
+        <classShapeMoniker Id="197d2b0c-b7b9-4f22-a24c-e9b22eeb30a5" />
+        <classShapeMoniker Id="2849d4b8-888c-47bc-bbbc-09ac65a30060" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 1.85659912109375); (6.25 : 1.85659912109375)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/LQ_FacturacionDataContext/Articulo/Articulo_Factura" />
+      <nodes>
+        <classShapeMoniker Id="2849d4b8-888c-47bc-bbbc-09ac65a30060" />
+        <classShapeMoniker Id="b98a0e97-bed3-40c5-9353-e5061c075c6b" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 4.85659912109375); (7.25 : 4.85659912109375); (7.25 : 2.8381982421875)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/LQ_FacturacionDataContext/Cliente/Cliente_Factura" />
+      <nodes>
+        <classShapeMoniker Id="3acc341d-23a4-4d24-bf83-20ede4bcda7a" />
+        <classShapeMoniker Id="b98a0e97-bed3-40c5-9353-e5061c075c6b" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 4.25); (3.125 : 3.875); (3.125 : 1.37782148632813); (3.5 : 1.37782148632813)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/LQ_FacturacionDataContext/Marca/Marca_Articulo" />
+      <nodes>
+        <classShapeMoniker Id="248913ed-3e9d-44fe-9d75-52b8c9039143" />
+        <classShapeMoniker Id="2849d4b8-888c-47bc-bbbc-09ac65a30060" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

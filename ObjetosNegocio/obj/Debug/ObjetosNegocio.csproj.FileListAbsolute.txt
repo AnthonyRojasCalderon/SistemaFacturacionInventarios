@@ -1,0 +1,6 @@
+D:\DesarrolloVS2017\ProyectoFinal\SistemaFacturacionInventarios\ObjetosNegocio\bin\Debug\ObjetosNegocio.dll
+D:\DesarrolloVS2017\ProyectoFinal\SistemaFacturacionInventarios\ObjetosNegocio\bin\Debug\ObjetosNegocio.pdb
+D:\DesarrolloVS2017\ProyectoFinal\SistemaFacturacionInventarios\ObjetosNegocio\obj\Debug\ObjetosNegocio.csproj.CoreCompileInputs.cache
+D:\DesarrolloVS2017\ProyectoFinal\SistemaFacturacionInventarios\ObjetosNegocio\obj\Debug\ObjetosNegocio.dll
+D:\DesarrolloVS2017\ProyectoFinal\SistemaFacturacionInventarios\ObjetosNegocio\obj\Debug\ObjetosNegocio.pdb
+D:\DesarrolloVS2017\ProyectoFinal\SistemaFacturacionInventarios\ObjetosNegocio\obj\Debug\ObjetosNegocio.csprojAssemblyReference.cache
